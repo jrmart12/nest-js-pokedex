@@ -39,4 +39,9 @@ http://localhost:3000/api/v2/seed
 * Nest JS
 
 
+#Deploy
+* nest-js-pokedex-production.up.railway.app
+
+
 railway for mongo database
+nest-js-pokedex-production.up.railway.app
